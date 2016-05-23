@@ -2,9 +2,9 @@
 Kraken is a simple WordPress theme built with Foundation 6 base on [JointsWP](http://jointswp.com/)
 
 ### Why I named this theme Kraken?
-Besouce I like said in every new relese of theme: 
+Besouce I like said in every new release of theme: 
 
-> Relase the Kraken :D
+> Release the Kraken :D
 
 ### What comes with Kraken?
 Kraken comes pre-baked with all of the great features that are found in the Foundation framework – simply put, if it works in Foundation, it will work in Kraken. The theme also includes:
